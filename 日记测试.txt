@@ -12,3 +12,6 @@ FJKDJFODOPFDKLF
 
 这是一个BUG
 >>>>>>> refs/remotes/origin/bug
+
+
+又一个
